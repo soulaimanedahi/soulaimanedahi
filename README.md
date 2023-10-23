@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://dev.to/soulaimanedahi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="soulaimanedahi" width="40" /></a>
+<a href="https://dev.to/soulaimanedahi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto&theme=light" alt="soulaimanedahi" width="40" /></a>
 <a href="https://twitter.com/iamsoulaimane" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="iamsoulaimane" width="40" /></a>
 <a href="https://linkedin.com/in/soulaimanedahi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="soulaimanedahi" width="40" /></a>
 </p>
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **slimane.dahi@gmail.com**
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/6535839415f02](https://cvdesignr.com/p/6535839415f02)
+- 📄 Know about my experiences <a href="https://cvdesignr.com/p/6535839415f02" target="blank"><img align="center" src="" alt="soulaimanedahi" width="40" /></a>
 
 - ⚡ Fun fact **I think I am funny**
 
