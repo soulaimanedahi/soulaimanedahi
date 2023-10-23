@@ -92,7 +92,7 @@
 <h3 align="left">Software:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,xd,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,xd,figma,postman,vscode,visualstudio,eclipse,idea&perline=10" />
   </a>
 </p>
 
