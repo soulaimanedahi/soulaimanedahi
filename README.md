@@ -26,87 +26,88 @@
 <a href="https://linkedin.com/in/soulaimanedahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soulaimanedahi" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,php,py&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,php,py&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,angular,react,webpack,gulp&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,angular,react,webpack,gulp&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Backend Development:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,graphql,nginx,kafka&perline=10" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,graphql,nginx,kafka&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">AI/ML:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow" />
+    <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Database:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,hibernate,mongodb,redis&perline=10" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,hibernate,mongodb,redis&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Devops:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,jenkins,docker,aws,gcp&perline=10" />
+    <img src="https://skillicons.dev/icons?i=bash,jenkins,docker,aws,gcp&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Backend as a Service(BaaS):</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,heroku&perline=10" />
+    <img src="https://skillicons.dev/icons?i=firebase,heroku&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Framework:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,symfony,django,flask,dotnet&perline=10" />
+    <img src="https://skillicons.dev/icons?i=laravel,symfony,django,flask,dotnet&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Testing:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest" />
+    <img src="https://skillicons.dev/icons?i=jest&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Software:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,xd,figma,postman,vscode,visualstudio,eclipse,idea&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,xd,figma,postman,vscode,visualstudio,eclipse,idea&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Static Site Generators:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,gatsby&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nextjs,gatsby&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Other:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linux,git&perline=10&theme=light" />
   </a>
 </p>
 
