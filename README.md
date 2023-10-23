@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **slimane.dahi@gmail.com**
 
-- 📄 Know about my experiences <a href="https://cvdesignr.com/p/6535839415f02" target="blank"><img align="center" src="https://github.com/soulaimanedahi/soulaimanedahi/blob/main/icons/cvdesigner.png" alt="soulaimanedahi" width="40" /></a>
+- 📄 Know about my experiences <a href="https://cvdesignr.com/p/6535839415f02" target="_blank"><img align="center" src="https://github.com/soulaimanedahi/soulaimanedahi/blob/main/icons/cvdesigner.png" alt="soulaimanedahi" width="40" /></a>
 
 - ⚡ Fun fact **I think I am funny**
 
