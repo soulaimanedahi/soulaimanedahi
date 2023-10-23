@@ -6,7 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulaimanedahi&label=Profile%20views&color=0e75b6&style=flat" alt="soulaimanedahi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamsoulaimane" target="blank"><img src="https://img.shields.io/twitter/follow/iamsoulaimane?logo=twitter&style=for-the-badge" alt="iamsoulaimane" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://dev.to/soulaimanedahi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="soulaimanedahi" width="40" /></a>
+<a href="https://twitter.com/iamsoulaimane" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="iamsoulaimane" width="40" /></a>
+<a href="https://linkedin.com/in/soulaimanedahi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="soulaimanedahi" width="40" /></a>
+</p>
 
 - 🔭 I’m currently working on **E-commerce Website**
 
@@ -17,14 +23,6 @@
 - 📄 Know about my experiences [https://cvdesignr.com/p/6535839415f02](https://cvdesignr.com/p/6535839415f02)
 
 - ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://dev.to/soulaimanedahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="soulaimanedahi" height="30" width="40" /></a>
-<a href="https://twitter.com/iamsoulaimane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsoulaimane" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soulaimanedahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soulaimanedahi" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Programming Languages:</h3>
@@ -72,7 +70,7 @@
 <h3 align="left">Backend as a Service(BaaS):</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,heroku&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=firebase,heroku,vercel&perline=10&theme=light" />
   </a>
 </p>
 
