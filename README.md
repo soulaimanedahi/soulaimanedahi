@@ -1,12 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://www.linkedin.com/in/soulaimanedahi/)
 
-<p align="center" width="100%">
-    <a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&background=60ECFF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Soulaimane+DAHI;%F0%9F%92%BB++A+master+student+and+junior+web+developer+from+Morocco"
-        alt="Typing SVG" style="font-size: 24px;" /></a>
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Soulaimane DAHI</h1>
 <h3 align="center">A master's degree student and junior web developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
