@@ -57,7 +57,7 @@
 <h3 align="left">Database:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&perline=10" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,hibernate,mongodb,redis&perline=10" />
   </a>
 </p>
 
@@ -65,6 +65,20 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,jenkins,docker,aws,gcp&perline=10" />
+  </a>
+</p>
+
+<h3 align="left">Backend as a Service(BaaS):</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,heroku&perline=10" />
+  </a>
+</p>
+
+<h3 align="left">Framework:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,symfony,django,flask,dotnet&perline=10" />
   </a>
 </p>
 
