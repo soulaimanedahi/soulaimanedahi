@@ -9,9 +9,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://dev.to/soulaimanedahi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto&theme=light" alt="soulaimanedahi" width="40" /></a>
-<a href="https://twitter.com/iamsoulaimane" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="iamsoulaimane" width="40" /></a>
-<a href="https://linkedin.com/in/soulaimanedahi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="soulaimanedahi" width="40" /></a>
+<a href="https://dev.to/soulaimanedahi" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=devto&theme=light" alt="soulaimanedahi" width="40" /></a>
+<a href="https://twitter.com/iamsoulaimane" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="iamsoulaimane" width="40" /></a>
+<a href="https://linkedin.com/in/soulaimanedahi" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="soulaimanedahi" width="40" /></a>
 </p>
 
 - 🔭 I’m currently working on **E-commerce Website**
