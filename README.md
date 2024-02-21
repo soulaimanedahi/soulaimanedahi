@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Soulaimane DAHI</h1>
 <h3 align="center">A master's degree student and junior web developer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/NUX_Octodex.gif" /> 
+<img align="right" alt="Coding" width="400" src="https://github.com/soulaimanedahi/soulaimanedahi/blob/main/octodex.gif" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulaimanedahi&label=Profile%20views&color=0e75b6&style=flat" alt="soulaimanedahi" /> </p>
 
