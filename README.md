@@ -40,28 +40,14 @@
 <h3 align="left">Backend Development:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,graphql&perline=10&theme=light" />
-  </a>
-</p>
-
-<h3 align="left">AI/ML:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,laravel,symfony&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Database:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,hibernate,mongodb,redis&perline=10&theme=light" />
-  </a>
-</p>
-
-<h3 align="left">Devops:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,jenkins,docker,aws,gcp&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=10&theme=light" />
   </a>
 </p>
 
@@ -69,20 +55,6 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase,heroku,vercel&perline=10&theme=light" />
-  </a>
-</p>
-
-<h3 align="left">Framework:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,symfony,django,flask,dotnet&perline=10&theme=light" />
-  </a>
-</p>
-
-<h3 align="left">Testing:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest&theme=light" />
   </a>
 </p>
 
