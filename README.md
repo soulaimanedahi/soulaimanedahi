@@ -14,15 +14,13 @@
 <a href="https://dev.to/soulaimanedahi" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=devto&theme=light" alt="soulaimanedahi" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
-
-- 🌱 I’m currently learning **Spring Boot and Angular**
+- 🌱 I’m currently learning **React and Next.js**
 
 - 📫 How to reach me **slimane.dahi@gmail.com**
 
 - 📄 Know about my experiences <a href="https://cvdesignr.com/p/6535839415f02" target="_blank"><img align="center" src="https://github.com/soulaimanedahi/soulaimanedahi/blob/main/icons/cvdesigner.png" alt="soulaimanedahi" width="40" /></a>
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Be good and stay positive, no matter what.**
 
 
 <h3 align="left">Programming Languages:</h3>
