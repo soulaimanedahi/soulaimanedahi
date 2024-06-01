@@ -61,14 +61,14 @@
 <h3 align="left">Software:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,figma,postman,vscode,idea&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ps,figma,postman,vscode,idea,webstorm&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Other:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,git&perline=10&theme=light" />
   </a>
 </p>
 
