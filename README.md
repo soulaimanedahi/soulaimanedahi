@@ -33,14 +33,14 @@
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,angular,react&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Backend Development:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,laravel,symfony&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=laravel,symfony,spring,nodejs&perline=10&theme=light" />
   </a>
 </p>
 
@@ -61,14 +61,7 @@
 <h3 align="left">Software:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,figma,postman,vscode,visualstudio,eclipse,idea&perline=10&theme=light" />
-  </a>
-</p>
-
-<h3 align="left">Static Site Generators:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,gatsby&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ps,figma,postman,vscode,idea&perline=10&theme=light" />
   </a>
 </p>
 
