@@ -26,7 +26,7 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,js,ts,php,py&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,java,py&perline=10&theme=light" />
   </a>
 </p>
 
@@ -54,14 +54,14 @@
 <h3 align="left">Backend as a Service(BaaS):</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,heroku,vercel&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=heroku,vercel&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Software:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,xd,figma,postman,vscode,visualstudio,eclipse,idea&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ps,figma,postman,vscode,visualstudio,eclipse,idea&perline=10&theme=light" />
   </a>
 </p>
 
