@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://www.linkedin.com/in/soulaimanedahi/)
 
 <h1 align="center">Hi 👋, I'm Soulaimane DAHI</h1>
-<h3 align="center">A master's degree student and junior web developer from Morocco</h3>
+<h3 align="center">A master's degree and junior web developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/soulaimanedahi/soulaimanedahi/blob/main/octodex.gif" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulaimanedahi&label=Profile%20views&color=0e75b6&style=flat" alt="soulaimanedahi" /> </p>
@@ -9,12 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/soulaimanedahi" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="soulaimanedahi" width="40" /></a>
-<a href="https://twitter.com/iamsoulaimane" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="iamsoulaimane" width="40" /></a>
-<a href="https://dev.to/soulaimanedahi" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=devto&theme=light" alt="soulaimanedahi" width="40" /></a>
 </p>
-
-- 🌱 I’m currently learning **React and Next.js**
 
 - 📫 How to reach me **slimane.dahi@gmail.com**
 
@@ -26,28 +21,28 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,java,py&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,php,js,ts&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,react&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Backend Development:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,symfony,spring,nodejs&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=spring,symfony,nodejs&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Database:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=10&theme=light" />
   </a>
 </p>
 
